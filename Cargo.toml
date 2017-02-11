@@ -1,0 +1,10 @@
+[package]
+name = "rust_stm32"
+version = "0.1.0"
+authors = ["victor.koenders <victor.koenders@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
+
+[profile.release]
+lto = true

@@ -1,0 +1,4 @@
+[root]
+name = "rust_stm32"
+version = "0.1.0"
+
